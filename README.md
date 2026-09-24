@@ -59,3 +59,8 @@ o impórtalo desde GitHub en vercel.com — detecta Next.js automáticamente.
 Este starter reproduce **técnicas** de animación de uso común en la
 industria (scroll pinning, smooth-scroll, crossfades), no el diseño,
 copy ni assets de ningún sitio en particular.
+
+Based on:
+```bash
+https://github.com/BurtsBizarreJourney/video-course-starter-kit/tree/main
+```
